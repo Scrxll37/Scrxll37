@@ -38,9 +38,8 @@
 
 <br/>
 
-### 💻 Tech Stack
-
- <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+ 
+ <img src="https://img.shields.io/badge/PHP-1A1A1A?style=flat-square&logo=php&logoColor=8A2BE2" /> <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=8A2BE2" /> <img src="https://img.shields.io/badge/C++-1A1A1A?style=flat-square&logo=c%2B%2B&logoColor=8A2BE2" /> <img src="https://img.shields.io/badge/C-1A1A1A?style=flat-square&logo=c&logoColor=8A2BE2" /> <img src="https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=8A2BE2" /> <img src="https://img.shields.io/badge/Lua-1A1A1A?style=flat-square&logo=lua&logoColor=8A2BE2" />
 
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/QBCore-333333?style=flat-square&logo=fivem&logoColor=white" />
 
