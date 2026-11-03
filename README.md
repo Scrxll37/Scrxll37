@@ -21,7 +21,7 @@
 * 🎓 **Education:** Software Engineering at Ibn Zohr University.
 * 💼 **Experience:** Delivered 15+ local business systems for companies and 4+ online websites, handling continuous operations, bug fixing, and server maintenance.
 * 🚀 **Roots:** Started early developing hardware logic with Arduino before scaling into full-stack web architectures and system engineering.
-* 📫 **Reach me:** Discord at **`scrxll.exe`**
+* 📫 **Reach me:** Email at **`platvion@gmail.com`**
 
 <br/>
 
