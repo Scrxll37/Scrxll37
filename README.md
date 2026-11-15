@@ -1,5 +1,5 @@
 <h1 align="center">Faical Benouchen</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | System Architect</h3>
+<h3 align="center">Software Engineer Student | Full-Stack Dev | System Architect</h3>
 <div align="center">
    <a href="https://www.instagram.com/platvion/">
     <img src="scrxllheader.gif" width="100%" alt="Faical Benouchen - Software Architect">
